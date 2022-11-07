@@ -3,7 +3,7 @@ import React from 'react'
 export default function About() {
   return (
     <div>
-        What should we tell about us...
+        <p>This website generates a random drink for you using <a href='https://www.thecocktaildb.com/api.php?ref=apilist.fun'>TheCocktailDB</a>.</p>
     </div>
   )
 }

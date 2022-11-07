@@ -3,7 +3,7 @@ import React from 'react'
 export default function ContactUs() {
   return (
     <div>
-        Contact us if you dare...
+        <p>This website was created by Teea in 2022.</p>
     </div>
   )
 }
