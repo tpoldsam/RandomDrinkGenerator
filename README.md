@@ -1,1 +1,1 @@
-# Web Development, week 6
+# Web Development, final assignment
